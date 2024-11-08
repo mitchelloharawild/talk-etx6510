@@ -760,7 +760,7 @@ tidygraph::tbl_graph(
     color = hcl.colors(4, "Dark2")[c(1,1,2,2,1,2,1,2,1,2,1,2) + 2]
   )
 ) |>
-  visnetwork_graph(width = 600, height = 400)
+  visnetwork_graph(width = 300, height = 300)
 ```
 :::
 :::
